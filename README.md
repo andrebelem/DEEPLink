@@ -7,17 +7,13 @@ The **DEEPLINK** project investigates deep-sea ecotoxicological and environmenta
 
 DEEPLINK is rooted in the principles of the **UN Decade of Ocean Science for Sustainable Development (2021–2030)**, contributing to its vision of *“the science we need for the ocean we want”* through open data, inter-basin collaboration, and transdisciplinary research.
 
----
-
-## Scientific Objectives
+## Our Scientific Objectives
 
 - **Assess ecotoxicological thresholds** of cold-adapted species (e.g., sea anemones, amphipods) under scenarios of metal contamination and ocean warming;
 - **Compare biological responses** between ecosystems under similar pressures (e.g., King George Island and polymetallic nodule zones);
 - **Identify biomarkers** for early detection of environmental stress in the deep sea;
 - **Generate high-resolution omics datasets** for poorly studied species with ecological and conservation relevance;
 - **Support environmental risk assessment** for deep-sea mining and contaminated polar environments.
-
----
 
 ## Strategic Purpose
 
@@ -26,8 +22,6 @@ DEEPLINK connects observations and methodologies across different latitudes and 
 - Foster equitable participation of South American and Southern Hemisphere institutions in global ocean science;
 - Contribute data, indicators, and frameworks to ongoing **Decade Actions**, such as DOOS and the All-Atlantic Ocean Research Alliance;
 - Provide actionable scientific knowledge for conservation strategies and future policy dialogues.
-
----
 
 ## Contribution to the UN Ocean Decade
 
@@ -41,19 +35,50 @@ DEEPLINK embodies the **collaborative ethos** of the Ocean Decade by:
 ---
 
 ## Project Team
+<table>
+  <tr>
+    <th align="center">Name</th>
+    <th align="center">Institution</th>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <strong>André Belém</strong><br>
+      <img src="private/Foto_Andre.png" alt="Andre photo" width="80"/><br>
+      <a href="mailto:andrebelem@id.uff.br">andrebelem@id.uff.br</a>
+    </td>
+    <td align="center" valign="middle">
+      Observatório Oceanográfico, UFF (Brazil)<br>
+      <img src="private/UFF_logo.png" alt="UFF Logo" width="80"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <strong>Caio C. Ribeiro</strong><br>
+      <img src="private/Foto_Caio.png" alt="Caio photo" width="80"/><br>
+      <a href="mailto:ccribeiro@ualg.pt">ccribeiro@ualg.pt</a>
+    </td>
+    <td align="center" valign="middle">
+      CCMAR, Universidade do Algarve (Portugal)<br>
+      <img src="private/CCMAR_logo.png" alt="CCMAR Logo" width="80"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <strong>Cármen Sousa</strong><br>
+      <img src="private/Foto_Carmen.png" alt="Carmen photo" width="80"/><br>
+      <a href="mailto:csvsousa@ualg.ptt">csvsousa@ualg.pt</a>
+    </td>
+    <td align="center" valign="middle">
+      CIMA, Universidade do Algarve (Portugal)<br>
+      <img src="private/CIMA_logo.png" alt="CIMA Logo" width="80"/>
+    </td>
+  </tr>
+</table>
 
-| Name              | Institution                                | Logo |
-|-------------------|--------------------------------------------|------|
-| **André Belém**   | Observatório Oceanográfico, UFF (Brazil)   | ![UFF Logo](#) |
-| **Caio C. Ribeiro** | CCMAR, Universidade do Algarve (Portugal) | ![CCMAR Logo](#) |
-| **Cármen Sousa**  | CIMA, Universidade do Algarve (Portugal)   | ![CIMA Logo](#) |
 
 ---
 
 ## Contact
+For inquiries or collaborations, please contact the participants by email.
 
-For inquiries or collaborations, please contact:  
-📧 **andrebelem@id.uff.br**
-
----
 
