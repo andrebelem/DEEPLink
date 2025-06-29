@@ -1,5 +1,14 @@
-# DEEPLINK  
+<table>
+<tr>
+<td><img src="DEEPLink.png" alt="DEEPLinK logo" width="180"></td>
+<td>
+
+# DEEPLinK  
 **Deep-sea Ecotoxicological and Environmental Patterns: Linking Insights for New Knowledge**
+
+</td>
+</tr>
+</table>
 
 ## Overview
 
